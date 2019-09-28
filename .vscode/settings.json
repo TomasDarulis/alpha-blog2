@@ -1,0 +1,4 @@
+{
+  // If not specified searches for 'rubocop' executable available on PATH (default and recommended)
+  "ruby.rubocop.executePath": "/home/tomas/.rvm/gems/ruby-2.6.2/bin/",
+}
